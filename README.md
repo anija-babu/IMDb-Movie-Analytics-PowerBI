@@ -8,6 +8,11 @@ The dashboard provides insights into movie performance by combining IMDb ratings
 
 This project demonstrates data cleaning, transformation, DAX calculations, and data visualization using Microsoft Power BI.
 
+##  Data Source: 
+
+https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows
+
+
 ##  Project Objectives
 
 - Analyze movie performance based on IMDb ratings and gross revenue.
@@ -18,6 +23,8 @@ This project demonstrates data cleaning, transformation, DAX calculations, and d
 - Analyze the relationship between IMDb ratings and audience votes.
 - Develop an interactive dashboard to support data exploration.
 
+  
+
 ##  Tools & Technologies
 
 - **Power BI Desktop** – Dashboard development and visualization
@@ -26,82 +33,6 @@ This project demonstrates data cleaning, transformation, DAX calculations, and d
 - **Data Visualization** – Interactive charts and analytical reporting
 - **GitHub** – Project documentation and portfolio management
 
-##  Key Performance Indicators (KPIs)
-
-The dashboard highlights four key metrics:
-
-| KPI                 | Value          |
-| ------------------- | -------------- |
-| Total Movies        | 999            |
-| Average IMDb Rating | 7.95           |
-| Total Votes         | 274M           |
-| Total Gross Revenue | $56.54 Billion |
-
-*These values represent the unfiltered dashboard shown in the project screenshot.*
-
-## 📈 Dashboard Analysis & Visualizations
-
-### 1. Genre Distribution Analysis
-
-**Visual:** Donut Chart
-
-- Analyzes the top 10 genre categories based on movie count.
-- Displays the percentage contribution of each genre category.
-- Helps identify the most represented movie genres.
-
-### 2. Highest-Rated Movies
-
-**Visual:** Horizontal Bar Chart
-
-- Identifies the highest-rated movies based on IMDb ratings.
-- Compares movie ratings to highlight top-performing titles.
-- Provides insights into movies receiving the highest audience ratings.
-
-### 3. Movie Release Trends
-
-**Visual:** Area Chart
-
-- Analyzes the number of movies released each year.
-- Identifies periods with higher movie production.
-- Highlights changes in movie release patterns over time.
-
-### 4. IMDb Rating vs. Gross Revenue
-
-**Visual:** Scatter Chart
-
-- Examines the relationship between IMDb ratings and gross revenue.
-- Helps identify commercially successful movies across different rating levels.
-- Explores whether higher-rated movies tend to generate greater revenue.
-
-### 5. Highest-Rated Directors
-
-**Visual:** Horizontal Bar Chart
-
-- Compares directors based on average IMDb ratings.
-- Highlights directors associated with highly rated movies.
-- Provides insights into director-level movie performance.
-
-### 6. IMDb Rating vs. Number of Votes
-
-**Visual:** Scatter Chart
-
-- Analyzes the relationship between IMDb ratings and audience votes.
-- Identifies movies with high ratings and strong audience engagement.
-- Explores movie popularity based on voting activity.
-
-## 🎛️ Interactive Dashboard Features
-
-The dashboard includes interactive slicers for:
-
-- **Release Year** – Filter movies by release year.
-- **Genre** – Explore movies belonging to specific genre categories.
-- **Director** – Analyze movies associated with selected directors.
-
-These filters allow users to explore movie performance across different dimensions.
-
-## ⚙️ Data Preparation & Transformation
-
-The dataset was prepared for analysis using Power Query and Power BI.
 
 Key data preparation activities included:
 
@@ -135,7 +66,13 @@ The dashboard highlights the following observations:
 - Data Visualization
 - Data Analysis and Reporting
 
-## 👩‍💻 Author
+## Disclaimer
+
+This project is created for educational and portfolio purposes only. The analysis and insights are based on the IMDb movie dataset used in this project. The accuracy of the results depends on the quality, completeness, and reliability of the source data. All movie ratings, vote counts, and revenue figures are presented for analytical purposes and may not reflect current information. This project is not affiliated with or endorsed by IMDb.
+
+  
+
+##  Author
 
 **Anija Babu**\
 Data Analyst
